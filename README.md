@@ -2,7 +2,7 @@
 
 <img src="https://ianfinley.com/images/recipe-app.PNG">
 
-In this project, I built a Recipe tracking app. The app will allow a user to `create` new recipes, display a list of recipes and `delete` a recipe from the list by clicking a delete button. I also added styling following a mockup.
+I built a Recipe tracking app! The app will allow a user to `create` new recipes, display a list of recipes and `delete` a recipe from the list by clicking a delete button. I also added styling following a mockup.
 
 ##
 ## Learning Objectives
